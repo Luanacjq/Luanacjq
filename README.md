@@ -14,4 +14,4 @@ Sou Brasileira e tenho experiência em desenvolvimento Front-End, com foco em so
 
 💻 IDEs: Visual Studio Code e IntelliJ IDEA.
 
-![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanacjq&show_icons=true&theme=merko)
+![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanacjq&show_icons=true&theme=tokyonight)
