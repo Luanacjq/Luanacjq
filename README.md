@@ -2,13 +2,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Luana+Cirilo;Front-end+Developer" alt="Typing SVG" />
 </p>
-
-Olá! Me chamo Luana Cirilo, sou Brasileira e tenho experiência em desenvolvimento Front-End, com foco em soluções FullStack. Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades no desenvolvimento de aplicações modernas e escaláveis.
+<p align="center">
+  Olá! Me chamo Luana Cirilo, sou Brasileira e tenho experiência em desenvolvimento FullStack,
+  com foco em soluções Front-End. Estou constantemente buscando aprender novas tecnologias 
+  e aprimorar minhas habilidades no desenvolvimento de aplicações modernas e escaláveis.
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/a8/58/47/a85847abccfa9eb0f3610318759aa0ff.jpg" width="270px">
 </p>
-<br>
 
 ## 🛠 Hard Skills
 
