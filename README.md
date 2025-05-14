@@ -7,7 +7,7 @@
   com foco em soluções Front-End. Estou constantemente buscando aprender novas tecnologias e<br>
   aprimorar minhas habilidades no desenvolvimento de aplicações modernas e escaláveis.
 </p>
-
+<br>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/a8/58/47/a85847abccfa9eb0f3610318759aa0ff.jpg" width="270px">
 </p>
