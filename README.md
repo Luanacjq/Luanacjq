@@ -28,4 +28,8 @@
 <br>
 <br>
 <br>
-![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanacjq&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luanacjq&show_icons=true&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanacjq&layout=compact&theme=tokyonight"/>
+</p>
+
