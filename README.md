@@ -29,7 +29,7 @@
 <br>
 <br>
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luanacjq&show_icons=true&theme=tokyonight"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanacjq&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luanacjq&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanacjq&layout=compact&theme=tokyonight"/>
 </p>
 
